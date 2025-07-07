@@ -1,0 +1,4 @@
+id,age,family_history,lifestyle,cancer_type,last_screening
+1,55,True,smoker,breast,2020-07-01
+2,45,False,healthy,cervical,2022-01-15
+3,65,True,smoker,colorectal,2018-06-10
