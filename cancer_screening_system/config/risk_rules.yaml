@@ -1,0 +1,12 @@
+age:
+  threshold: 50
+  weight: 2
+
+family_history:
+  weight: 3
+
+lifestyle:
+  smoker: 2
+  sedentary: 1
+  alcoholic: 1
+  healthy: 0
